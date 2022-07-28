@@ -29,7 +29,7 @@ FROM unique_titles as ut
 GROUP BY ut.title
 ORDER BY COUNT(ut.emp_no) DESC;
 
---Deliverable 2: The Employees Eligible for the Mentorship Program
+-- Mentorship Eligibility table
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
     e.first_name,
 	e.last_name,
@@ -46,3 +46,17 @@ FROM employees as e
 WHERE (de.to_date = '9999-01-01')
 AND (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY e.emp_no, de.to_date DESC;
+
+--Deliverable 3
+
+-- Count of replacement roles
+SELECT COUNT(ut.emp_no)
+INTO replacment_roles
+FROM unique_titles as ut
+
+-- Count of retiring mentors
+SELECT COUNT(me.emp_no), me.title
+INTO retiring_mentors
+FROM mentorship_eligibilty as me
+GROUP BY me.title
+ORDER BY COUNT(me.emp_no) DESC;
