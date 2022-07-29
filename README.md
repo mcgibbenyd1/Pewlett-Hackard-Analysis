@@ -52,9 +52,9 @@ Number of roles needing to be replaced for the retiring employees.
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 <p align="center">
-Number of roles needing to be replaced for the retiring employees. 
+Qualified, Retirement-Ready employees by department 
 </p>
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Replacement_roles.png" width="35%"/>
+<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Retiring_Mentors_Titles.png" width="35%"/>
 </p>
