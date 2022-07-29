@@ -17,7 +17,7 @@ From the analysis of the employees that are close to retirement it is found that
 1) The majority of retiring employees hold the titles of Senior Engineer or Senior Staff
 
 <p align="center">
-Retiring Emploees by Title
+Retiring Employees by Title
 </p>
 
 <p align="center">  
