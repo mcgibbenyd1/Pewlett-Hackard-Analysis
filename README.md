@@ -21,7 +21,7 @@ Retiring Emploees by Title
 </p>
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Retiring_Titles.png" width="85%"/>
+<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Retiring_Titles.png" width="35%"/>
 </p>
 
 2) With number of senior positions retiring then they will have many promotions into those senior roles creating a younger and possibly inexperienced company
@@ -33,7 +33,7 @@ Eligible Employees for Mentorship Program
 </p>
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Retiring_Mentors_Titles.png" width="85%"/>
+<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Retiring_Mentors_Titles.png" width="35%"/>
 </p>
 
 4) There are two Managers retiring whose role will need to be replaced 
@@ -46,7 +46,7 @@ Number of roles needing to be replaced for the retiring employees.
 </p>
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Replacement_roles.png" width="85%"/>
+<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Replacement_roles.png" width="20%"/>
 </p>
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
@@ -56,5 +56,5 @@ Number of roles needing to be replaced for the retiring employees.
 </p>
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Replacement_roles.png" width="85%"/>
+<img src="https://github.com/mcgibbenyd1/Pewlett-Hackard-Analysis/blob/main/Tables_Pictures/Replacement_roles.png" width="35%"/>
 </p>
